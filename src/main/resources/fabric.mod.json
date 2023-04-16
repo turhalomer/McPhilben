@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "mc-philben-mc",
   "version": "${version}",
   "name": "Addon Template",
   "description": "An addon template for the Meteor addons.",
@@ -14,7 +14,7 @@
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.Addon"
+      "bulldog.ravenclaw.mcphilben.McPhilben"
     ]
   },
   "mixins": [
