@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "mc-philben-mc",
+  "id": "mcphilben-mc",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "McPhilben",
   "description": "An addon template for the Meteor addons.",
   "authors": [
-    "seasnail"
+    "GradientGamer",
+    "Lemontech Development"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
@@ -18,7 +19,7 @@
     ]
   },
   "mixins": [
-    "addon-template.mixins.json"
+    "mcphilben.mixins.json"
   ],
   "custom": {
     "meteor-client:color": "225,25,25"
