@@ -1,6 +1,6 @@
-# Meteor Addon Template
+# McPhilben
 
-A template to allow easy usage of the Meteor Addon API.
+Currently in beta
 
 ### How to use:  
 - Clone this project
