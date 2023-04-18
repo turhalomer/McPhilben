@@ -1,8 +1,5 @@
 # McPhilben
 
-Currently in beta
+McPhilben is a WIP Public recreation of the Famous Copenheimer system that runs on meteor client
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+### Goals:
