@@ -3,7 +3,7 @@
   "id": "mcphilben-mc",
   "version": "${version}",
   "name": "McPhilben",
-  "description": "An addon template for the Meteor addons.",
+  "description": "A pulbic recreation of the Copenheimer System",
   "authors": [
     "GradientGamer",
     "Lemontech Development"
@@ -11,7 +11,7 @@
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/mcphilben/mcphilbenscaled.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [

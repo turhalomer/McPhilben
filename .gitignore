@@ -32,5 +32,6 @@ bin/
 
 run/
 
-#OneDrive - external cloud
-~BROMIUM/
+#OneDrive
+OneDriveNote.txt
+Onedrive items/

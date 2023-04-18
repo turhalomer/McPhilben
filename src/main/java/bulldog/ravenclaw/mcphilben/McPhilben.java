@@ -11,6 +11,7 @@ import meteordevelopment.meteorclient.systems.hud.HudGroup;
 import meteordevelopment.meteorclient.systems.modules.Category;
 import meteordevelopment.meteorclient.systems.modules.Modules;
 import org.slf4j.Logger;
+import com.mojang.blaze3d.systems.*;
 
 public class McPhilben extends MeteorAddon {
     public static final Logger LOG = LogUtils.getLogger();
@@ -19,7 +20,8 @@ public class McPhilben extends MeteorAddon {
 
     @Override
     public void onInitialize() {
-        LOG.info("Initializing Meteor McPhilben Template");
+        LOG.info("Initializing McPhilben Enviorment");
+
 
         // Modules
         Modules.get().add(new ModuleExample());
