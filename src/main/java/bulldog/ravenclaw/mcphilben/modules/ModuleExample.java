@@ -1,6 +1,6 @@
 package bulldog.ravenclaw.mcphilben.modules;
 
-import bulldog.ravenclaw.mcphilben.McPhilben;
+import bulldog.ravenclaw.mcphilben.McPhilbenClient;
 import meteordevelopment.meteorclient.systems.modules.Module;
 
 public class ModuleExample extends Module {

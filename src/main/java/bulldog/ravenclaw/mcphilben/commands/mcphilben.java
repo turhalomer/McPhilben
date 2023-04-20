@@ -7,13 +7,13 @@ import net.minecraft.command.CommandSource;
 import static com.mojang.brigadier.Command.SINGLE_SUCCESS;
 public class mcphilben extends Command {
     public mcphilben() {
-        super("McPhilben", "Base command for the McPhilben addon");
+        super("mcphilben", "Base command for the McPhilbenClient addon");
     }
 
     @Override
     public void build(LiteralArgumentBuilder<CommandSource> builder) {
         builder.executes(context -> {
-            info("McPhilben is loaded :)");
+            info("McPhilbenClient is loaded :)");
             info("run the x-test command for debug");
             return SINGLE_SUCCESS;
         });

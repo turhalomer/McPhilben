@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "mcphilben-mc",
   "version": "${version}",
-  "name": "McPhilben",
+  "name": "mcPhilben",
   "description": "A pulbic recreation of the Copenheimer System",
   "authors": [
     "GradientGamer",
@@ -15,7 +15,7 @@
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "bulldog.ravenclaw.mcphilben.McPhilben"
+      "bulldog.ravenclaw.mcphilben.McPhilbenClient"
     ]
   },
   "mixins": [
