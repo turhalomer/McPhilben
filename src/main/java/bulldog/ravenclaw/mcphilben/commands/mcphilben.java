@@ -7,7 +7,7 @@ import net.minecraft.command.CommandSource;
 import static com.mojang.brigadier.Command.SINGLE_SUCCESS;
 public class mcphilben extends Command {
     public mcphilben() {
-        super("mcphilben", "Base command for the McPhilbenClient addon");
+        super("mcphilben", "Base command for the McPhilben addon");
     }
 
     @Override

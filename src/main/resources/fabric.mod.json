@@ -9,7 +9,7 @@
     "Lemontech Development"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/GradientGamer-XD/McPhilben"
   },
   "icon": "assets/mcphilben/mcphilbenscaled.png",
   "environment": "client",
@@ -22,7 +22,7 @@
     "mcphilben.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25"
+    "meteor-client:color": "0, 105, 0"
   },
   "depends": {
     "java": ">=17",

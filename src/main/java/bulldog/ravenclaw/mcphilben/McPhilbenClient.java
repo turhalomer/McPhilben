@@ -10,6 +10,7 @@ import meteordevelopment.meteorclient.systems.hud.Hud;
 import meteordevelopment.meteorclient.systems.hud.HudGroup;
 import meteordevelopment.meteorclient.systems.modules.Category;
 import meteordevelopment.meteorclient.systems.modules.Modules;
+import net.fabricmc.api.ClientModInitializer;
 import org.slf4j.Logger;
 
 public class McPhilbenClient extends MeteorAddon {
@@ -31,6 +32,8 @@ public class McPhilbenClient extends MeteorAddon {
         // HUD
         Hud.get().register(HudExample.INFO);
     }
+
+
 
     @Override
     public void onRegisterCategories() {

@@ -1,0 +1,6 @@
+fabricmixins is a folder for any external mixins this mod will use. its more than a meteor fork :)
+
+mcPhilben or McPhilben
+
+
+mcPhilben development Not affiliated with Mojang AB, Microsoft, Chloride-Signify, or Day-Brite
