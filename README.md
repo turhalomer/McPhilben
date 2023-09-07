@@ -8,4 +8,5 @@ McPhilben is a WIP Public recreation of the Famous Copenheimer system that runs 
 
 ### Updates:
 
-As im ending school. i have plans to continue this project
+
+back in school again. so dont expect me to work on this
